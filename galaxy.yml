@@ -1,0 +1,11 @@
+namespace: northwind
+name: platform
+version: 1.0.0
+readme: README.md
+authors:
+  - Northwind IT Platform Team <automation@northwind.example>
+description: Northwind platform automation (use this one in the EE build)
+license_file: LICENSE
+tags: [northwind, aap, lab]
+dependencies: {}
+repository: https://github.com/AAP-Automation-Portal-Lab/northwind.platform
